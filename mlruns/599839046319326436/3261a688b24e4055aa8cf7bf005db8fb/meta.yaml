@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/599839046319326436/3261a688b24e4055aa8cf7bf005db8fb/artifacts
+deleted_time: 1733567107971
+end_time: null
+entry_point_name: ''
+experiment_id: '599839046319326436'
+lifecycle_stage: deleted
+run_id: 3261a688b24e4055aa8cf7bf005db8fb
+run_name: gregarious-mouse-936
+run_uuid: 3261a688b24e4055aa8cf7bf005db8fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733566429355
+status: 1
+tags: []
+user_id: carlo
